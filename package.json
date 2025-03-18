@@ -58,9 +58,9 @@
     "grunt-mocha-test": "~0.13.3",
     "grunt-parallel": "~0.5.1",
     "grunt-usemin": "~3.1.1",
-    "jimp": "0.22.12",
+    "jimp": "1.6.0",
     "matchdep": "~2.0.0",
-    "mocha": "~10.4.0",
+    "mocha": "~11.1.0",
     "sinon": "~18.0.0",
     "sinon-chai": "~3.7.0"
   },
