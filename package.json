@@ -28,7 +28,7 @@
     "angular-sanitize": "1.8.3",
     "body-parser": "2.2.0",
     "chart.js": "4.5.0",
-    "compression": "1.8.0",
+    "compression": "1.8.1",
     "cors": "2.8.5",
     "debug": "4.4.1",
     "easyxml": "2.0.1",
