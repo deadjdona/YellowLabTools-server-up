@@ -30,7 +30,7 @@
     "chart.js": "4.5.0",
     "compression": "1.8.1",
     "cors": "2.8.5",
-    "debug": "4.4.1",
+    "debug": "4.4.3",
     "easyxml": "2.0.1",
     "ejs": "3.1.9",
     "express": "5.1.0",
